@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Boubakri Nabil</h1>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=user1650&label=Profile%20views&color=0e75b6&style=flat" alt="user1650" /> </p>
+<p align="left"> <img src="<p align="left"> <a href="https://twitter.com/nebilboubakri" target="blank"><img src="https://img.shields.io/twitter/follow/nebilboubakri?logo=twitter&style=for-the-badge" alt="nebilboubakri" /></a> </p>" alt="user1650" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nebilboubakri" target="blank"><img src="https://img.shields.io/twitter/follow/nebilboubakri?logo=twitter&style=for-the-badge" alt="nebilboubakri" /></a> </p>
 
